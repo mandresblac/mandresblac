@@ -1,6 +1,6 @@
 ### Hi 👋, my name is Manuel Blanco
 
-![Header](./github-header-image.png)
+![Header](./github-header-image2.png)
 
 I am passionate about programming, I have HTML skills, Css, Bootstrap, Tailwind Css. Javascript, Git and Github, development Full Stack MEAN (Mongodb, Express, Angular and Nodejs).
 
