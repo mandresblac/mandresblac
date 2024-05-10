@@ -19,7 +19,12 @@ I seek to work as a team, cooperating with everyone and helping in the best way 
 
 ### - **Social information:**
 
-[<img src='./images/icons8-github-24.png' alt='github' height='40'>](https://github.com/mandresblac)
+<a href="https://github.com/mandresblac" target="_blank">
+<img src='./images/icons8-github-24.png' alt='github' height='40'>
+</a>
+
+<!-- [<img src='./images/icons8-github-24.png' alt='github' height='40'>](https://github.com/mandresblac) -->
+
 [<img src='./images/icons8-linkedin.svg' alt='github' height='40'>](https://www.linkedin.com/in/manuel-andres-blanco-pt)
 [<img src='./images/icons8-logotipo-de-codepen.svg' alt='github' height='45'>](https://codepen.io/manblac)
 [<img src='./images/icons8-stack-overflow-128.png' alt='github' height='45'>](https://es.stackoverflow.com/users/220530/manolo)
