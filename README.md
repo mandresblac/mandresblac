@@ -16,6 +16,6 @@ Skills:
 
 [<img src='./icons8-github-24.png' alt='github' height='40'>](https://github.com/mandresblac)
 [<img src='./icons8-linkedin.svg' alt='github' height='40'>](https://www.linkedin.com/in/manuel-andres-blanco-pt)
-[<img src='./icons8-logotipo-de-codepen.svg' alt='github' height='50'>](https://codepen.io/manblac) 
-[<img src='./icons8-stack-overflow-128.png' alt='github' height='50'>](https://es.stackoverflow.com/users/220530/manolo)
-[<img src='icons8-youtube.svg' alt='github' height='50'>](https://www.youtube.com/channel/UC6GCVBYYlV4tJ8afvtlLCzQ)
+[<img src='./icons8-logotipo-de-codepen.svg' alt='github' height='45'>](https://codepen.io/manblac) 
+[<img src='./icons8-stack-overflow-128.png' alt='github' height='45'>](https://es.stackoverflow.com/users/220530/manolo)
+[<img src='icons8-youtube.svg' alt='github' height='45'>](https://www.youtube.com/channel/UC6GCVBYYlV4tJ8afvtlLCzQ)
