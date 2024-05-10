@@ -15,7 +15,6 @@ Habilidades:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/mandresblac)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/manuel-andres-blanco-pt//)    
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mandresblac&show_icons=true)  
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mandresblac)](https://github.com/anuraghazra/github-readme-stats)
 
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/mandresblac/contributions?format=svg&private=false)  
