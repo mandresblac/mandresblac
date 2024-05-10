@@ -15,5 +15,5 @@ Skills:
 - 📫 How to contact me: mandresblac@gmail.com 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mandresblac) 
-[(./icons8-github-24.png)](https://github.com/mandresblac)
+![(./icons8-github-24.png)](https://github.com/mandresblac)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/manuel-andres-blanco-pt) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/manblac) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://es.stackoverflow.com/users/220530/manolo) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UC6GCVBYYlV4tJ8afvtlLCzQ)
