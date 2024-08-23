@@ -20,8 +20,8 @@ I seek to work as a team, cooperating with everyone and helping in the best way 
 - 📫 How to contact me: mandresblac@gmail.com
 
 ### - **GitHub Analytics:**
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mandresblac&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mandresblac)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mandresblac&show_icons=true)
 
 ### - **Social information:**
 
