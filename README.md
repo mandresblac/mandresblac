@@ -1,4 +1,4 @@
-![Header](./images/github-header-banner3.png)
+![Header](./images/github-header-banner1.png)
 
 ### Hi 👋, my name is Manuel Blanco
 
